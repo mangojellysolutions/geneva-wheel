@@ -1,7 +1,7 @@
-# geneva-wheel
+# Geneva Wheel Modelling And Animation
 FreeCAD model file for the Geneva Wheel modelling and animation tutorial that I put together for Youtube
 
-##Video series
+## Video series
 
 https://www.youtube.com/watch?v=WQ1zslmtZKM
 
